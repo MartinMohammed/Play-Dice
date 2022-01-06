@@ -99,6 +99,6 @@ footer {
 /* media queries for more responsive design */
 @media (min-width: 500) {
   h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 }
