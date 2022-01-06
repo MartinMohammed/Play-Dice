@@ -95,3 +95,10 @@ footer {
   color: gray;
   font-size: 1rem;
 }
+
+/* media queries for more responsive design */
+@media (min-width: 500) {
+  h1 {
+    font-size: 3rem;
+  }
+}
