@@ -4,15 +4,6 @@
   text-align: center;
 }
 
-.heading {
-  padding: 60px 10px;
-  height: 200px;
-}
-
-.gaming-interface {
-  padding-top: 20px;
-}
-
 .myButton {
   box-shadow: inset 0px 0px 15px 3px #23395e;
   background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
@@ -101,7 +92,7 @@ footer {
 }
 
 /* media queries for more responsive design */
-@media (max-width: 800) {
+@media screen and (max-width: 800px) {
   h1 {
     font-size: 3rem;
   }
