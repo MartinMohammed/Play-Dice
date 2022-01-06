@@ -89,3 +89,10 @@ footer {
   color: gray;
   font-size: 1rem;
 }
+
+/* MEDIA QUERIES IF THE VIEWPOINT GETS SMALLER */
+@media (min-width: 600px) {
+  body {
+    transform: scale(2)
+  }
+}
