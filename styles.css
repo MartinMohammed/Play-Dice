@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.heading {
+  height: 200px;
+}
+
 .myButton {
   box-shadow: inset 0px 0px 15px 3px #23395e;
   background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
