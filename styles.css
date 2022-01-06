@@ -101,8 +101,8 @@ footer {
 }
 
 /* media queries for more responsive design */
-@media (min-width: 500) {
+@media (max-width: 500) {
   h1 {
-    font-size: 0.1rem;
+    font-size: 3rem;
   }
 }
