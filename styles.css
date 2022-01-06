@@ -92,8 +92,8 @@ footer {
 }
 
 /* media queries for more responsive design */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
